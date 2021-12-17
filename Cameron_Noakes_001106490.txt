@@ -1,0 +1,28 @@
+COMP1806 2021/22 - Information Security
+
+Mini-project - Produce an Information Security essay
+
+Cameron Noakes 001106490
+
+Rubric-based feedback and Overall mark.
+
+Assessment domain 1 - Knowledge and understanding of content 
+c - There is a very good systematic understanding of the discussed and analysed information security concepts. There is also some very good evidence of engagement with all key elements.  
+
+Assessment domain 2 - Use of Research informed evidence 
+c - A very good range of appropriate literature is used. Views are discussed and arguments presented with reference to this literature, and there is evidence of very good deployment of established techniques of analysis and enquiry when researching into the discussed and analysed information security concepts. There is also evidence of very good commentary on aspects of current research and scholarship into the discussed and analysed information security concepts.
+
+Assessment domain 3 - Evaluation and analysis
+c - You demonstrate a very good ability to devise and sustain a clear argument. Very good understanding of some of the limits in the knowledge available around the discussed and analysed information security concepts. Very good hypothesis presented and a justified approach to exploring this.
+
+Assessment domain 4 - Communication, Organisation and Presentation 
+d - A good structure for the most part. The work observes many academic conventions in style and content and is mostly presented in Standard English, with some errors and omissions. Some sentence structure also needs revision, and this can affect the flow of your work in places.
+
+Assessment domain 5 - Referencing and coverage 
+d - Literature is not always correctly referenced within the text and/or reference list/bibliography. Almost all texts are included in bibliography. Reading list is good in terms of number of sources but there are several secondary sources.
+
+What was done best and what needs improvement:
+This is good work. You have read a few papers that relate to MITRE ATT&CK. You have shown that you understand many of the core ideas.
+While you did present us with some good points, you need to make sure that you have a clear goal that you can prove using the papers you read. You must ensure that all statistics you give are cited. While you talk about many tools and the pros/cons of using them, you could have gone into more detail and used the conclusion to state what the open questions are. While you did give a list of tools and systems, they were not explained, you could have expanded on these to better prove your point. You should have gone into more depth into some of them so you can compare them. The models you picked are good, but you are not very critical of them – compare them and assess their pros and cons. You also could make great comments about the pros and cons of the models, but you should always ensure that you back up what you are saying using references.  Please avoid using websites! Finally, you must make sure that you prioritise your evaluation and conclusion – what are the open questions in research? How are these questions being answered or how could they be answered?
+
+The overall mark of this coursework is 70.
